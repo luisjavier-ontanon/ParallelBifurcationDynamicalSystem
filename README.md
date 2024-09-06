@@ -6,7 +6,7 @@
 Luis Javier Ontañón García Pimentel  
 Coordinación Académica Región Altiplano Oeste, Universidad Autónoma de San Luis Potosí.
 
-Juan Gonzalo Barajas Ramírez
+Juan Gonzalo Barajas Ramírez  
 División de Control y Sistemas Dinámicos, Instituto Potosino de Investigación Científica y Tecnológica.
 
 ## Resumen de la actividad
